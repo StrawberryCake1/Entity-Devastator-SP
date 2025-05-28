@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"sk.uniza.fri.hra"},{"l":"sk.uniza.fri.hra.entity"},{"l":"sk.uniza.fri.hra.entity.vlastnosti"},{"l":"sk.uniza.fri.hra.potraviny"},{"l":"sk.uniza.fri.hra.zbrane"}];updateSearchResults();

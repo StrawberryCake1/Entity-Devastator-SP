@@ -1,0 +1,12 @@
+﻿<component name="ArtifactManager">
+  <artifact type="jar" name="EntityDevastator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EntityDevastator_jar</output-path>
+    <root id="archive" name="EntityDevastator.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/assets/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="EntityDevastator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/shapesGE-SK-2.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
